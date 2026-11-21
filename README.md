@@ -1,18 +1,12 @@
-<!--
-GitHub: alejomtll
-LinkedIn: https://www.linkedin.com/in/alejandro-martell-fl/
-X: https://x.com/alejomtll
-Email: alejo.aliens@gmail.com
-Discord: alejomtll
-Sustituye los datos personales y el stack de ejemplo por los tuyos.
-Guarda este README.md en tu repositorio público alejomtll/alejomtll.
--->
-
 <!-- 01 · HERO -->
 
 <div align="center">
   <a href="https://github.com/alejomtll">
-    <img src="./banner.png" alt="alejomtll — Developer" width="100%" />
+    <img
+      src="./banner.png"
+      alt="Alejandro Martell — Hybrid AI Engineer"
+      width="100%"
+    />
   </a>
 </div>
 
@@ -22,32 +16,52 @@ Guarda este README.md en tu repositorio público alejomtll/alejomtll.
 
 <h2 align="center">👨‍💻 About Me</h2>
 
+<p align="center">
+  <strong>Hybrid AI Engineer · Software Developer · CS Student</strong>
+  <br />
+  Connecting AI with software engineering to build useful products.
+</p>
+
 <table width="100%" border="0" cellspacing="0" cellpadding="0">
 <tr>
 <td width="60%" valign="top">
 
 ```js
-const developer = {
-  name: "Tu Nombre",
+const alejandro = {
+  name: "Alejandro Martell",
   username: "alejomtll",
-  role: [
-    "Engineering Student",
-    "Full-Stack & Desktop Developer"
+  location: "Táchira, Venezuela",
+  education: "Computer Science @ UNET",
+
+  role: "Hybrid AI Engineer",
+
+  approach: [
+    "Think like an engineer",
+    "Experiment with AI",
+    "Build with purpose"
   ],
-  location: "Tu Ciudad, País",
+
+  focus: [
+    "Applied Artificial Intelligence",
+    "AI + Software Engineering",
+    "Intelligent Web & Desktop Apps"
+  ],
+
   building: [
-    "Desktop Apps with Tauri",
-    "Web Platforms"
+    "AI-powered applications",
+    "Tools that simplify real workflows"
   ],
+
   learning: [
-    "System Design",
-    "Docker",
-    "Database Architecture"
+    "LLM Engineering",
+    "RAG & AI Agents",
+    "System Design & MLOps"
   ],
+
   stack: {
     languages: [
-      "Java", "Python", "JavaScript",
-      "TypeScript", "Rust"
+      "Python", "JavaScript",
+      "TypeScript", "Java", "Rust"
     ],
     frontend: [
       "HTML", "CSS", "Tailwind CSS"
@@ -68,7 +82,11 @@ const developer = {
 
 </td>
 <td width="40%" valign="middle" align="center">
-  <img src="./coding.gif" alt="Setup de programación con estética nocturna" width="100%" />
+  <img
+    src="./ai-hands.png"
+    alt="Una mano humana y una robótica a punto de tocarse"
+    width="100%"
+  />
 </td>
 </tr>
 </table>
@@ -81,18 +99,28 @@ const developer = {
 
 <p align="center">
   <a href="https://www.linkedin.com/in/alejandro-martell-fl/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge" alt="LinkedIn" />
+    <img
+      src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge"
+      alt="LinkedIn de Alejandro Martell"
+    />
   </a>
   <a href="https://x.com/alejomtll">
-    <img src="https://img.shields.io/badge/X_%2F_Twitter-161B22?style=for-the-badge&amp;logo=x&amp;logoColor=white" alt="X de alejomtll" />
+    <img
+      src="https://img.shields.io/badge/X_%2F_Twitter-161B22?style=for-the-badge&amp;logo=x&amp;logoColor=white"
+      alt="X de alejomtll"
+    />
   </a>
   <a href="mailto:alejo.aliens@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Enviar un email a alejo.aliens@gmail.com" />
+    <img
+      src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&amp;logo=gmail&amp;logoColor=white"
+      alt="Enviar un email a Alejandro Martell"
+    />
   </a>
-  <img src="https://img.shields.io/badge/Discord-alejomtll-5865F2?style=for-the-badge&amp;logo=discord&amp;logoColor=white" alt="Discord: alejomtll" />
+  <img
+    src="https://img.shields.io/badge/Discord-alejomtll-5865F2?style=for-the-badge&amp;logo=discord&amp;logoColor=white"
+    alt="Discord: alejomtll"
+  />
 </p>
-
-<!-- El badge de Discord muestra tu username. Un enlace directo requiere tu ID numérico. -->
 
 <br />
 
@@ -103,11 +131,20 @@ const developer = {
 <p align="center">
   <a href="https://skillicons.dev">
     <img
-      src="https://skillicons.dev/icons?i=java,python,js,ts,html,css,rust,tauri,docker,mysql,git,github,figma,wordpress&amp;theme=dark&amp;perline=14"
-      alt="Java, Python, JavaScript, TypeScript, HTML, CSS, Rust, Tauri, Docker, MySQL, Git, GitHub, Figma y WordPress"
+      src="https://skillicons.dev/icons?i=python,js,ts,java,rust,html,css,tauri,docker,mysql,git,github,figma,wordpress&amp;theme=dark&amp;perline=14"
+      alt="Python, JavaScript, TypeScript, Java, Rust, HTML, CSS, Tauri, Docker, MySQL, Git, GitHub, Figma y WordPress"
       width="100%"
     />
   </a>
+</p>
+
+<h4 align="center">Exploring AI</h4>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/LLM_Engineering-1A1B27?style=for-the-badge" alt="Aprendiendo LLM Engineering" />
+  <img src="https://img.shields.io/badge/RAG-1A1B27?style=for-the-badge" alt="Explorando RAG" />
+  <img src="https://img.shields.io/badge/AI_Agents-1A1B27?style=for-the-badge" alt="Explorando agentes de IA" />
+  <img src="https://img.shields.io/badge/MLOps-1A1B27?style=for-the-badge" alt="Aprendiendo MLOps" />
 </p>
 
 <h4 align="center">Tools · Libraries · Environments</h4>
@@ -142,7 +179,7 @@ const developer = {
   <a href="https://github.com/alejomtll">
     <img
       src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alejomtll&amp;theme=tokyonight"
-      alt="Resumen de actividad de alejomtll"
+      alt="Resumen de actividad de Alejandro Martell en GitHub"
       width="100%"
     />
   </a>
@@ -158,10 +195,9 @@ const developer = {
   />
 </td>
 <td width="50%" align="center" valign="top">
-  <!-- utcOffset=0 representa UTC; ajústalo a tu zona horaria. -->
   <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=alejomtll&amp;theme=tokyonight&amp;utcOffset=0"
-    alt="Distribución de commits según la hora del día, en UTC"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=alejomtll&amp;theme=tokyonight&amp;utcOffset=-4"
+    alt="Distribución de commits según la hora del día en Venezuela, UTC-4"
     width="100%"
   />
 </td>
@@ -194,12 +230,12 @@ const developer = {
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img
       src="https://github-profile-trophy.vercel.app/?username=alejomtll&amp;theme=tokyonight&amp;row=1&amp;column=7&amp;no-bg=true&amp;no-frame=true&amp;margin-w=10"
-      alt="Trofeos de GitHub de alejomtll en una sola fila"
+      alt="Trofeos de GitHub de Alejandro Martell"
       width="100%"
     />
   </a>
 </div>
 
-<!-- banner.png: súbelo a la raíz; recomendado 1600 × 400 px, fondo oscuro y acentos azul/violeta. -->
-<!-- coding.gif: súbelo a la raíz; recomendado vertical, aproximadamente 600 × 1000 px, con un setup nocturno. -->
-<!-- No necesitas más imágenes locales: los iconos, badges, estadísticas y trofeos se cargan mediante sus URLs. -->
+<!-- banner.png: sube el banner generado a la raíz de alejomtll/alejomtll con este nombre exacto. -->
+<!-- ai-hands.png: sube la imagen de las manos a esa misma raíz con este nombre exacto. -->
+<!-- No necesitas coding.gif ni otras imágenes locales; guarda este código como README.md. -->
