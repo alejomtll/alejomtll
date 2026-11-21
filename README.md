@@ -13,7 +13,9 @@
 <br />
 
 <!-- 02 · ABOUT ME -->
+El bloque de código quedó demasiado largo y deja mucho espacio vacío junto a la imagen. Sustituye **toda la sección “About Me”** por esta versión más compacta, con ambas columnas alineadas arriba:
 
+````markdown
 <h2 align="center">👨‍💻 About Me</h2>
 
 <p align="center">
@@ -22,7 +24,7 @@
   Connecting AI with software engineering to build useful products.
 </p>
 
-<table width="100%" border="0" cellspacing="0" cellpadding="0">
+<table width="100%">
 <tr>
 <td width="60%" valign="top">
 
@@ -32,46 +34,21 @@ const alejandro = {
   username: "alejomtll",
   location: "Táchira, Venezuela",
   education: "Computer Science @ UNET",
-
   role: "Hybrid AI Engineer",
 
-  approach: [
-    "Think like an engineer",
-    "Experiment with AI",
-    "Build with purpose"
-  ],
-
-  focus: [
-    "Applied Artificial Intelligence",
-    "AI + Software Engineering",
-    "Intelligent Web & Desktop Apps"
-  ],
-
+  focus: "Applied AI + Software Engineering",
   building: [
     "AI-powered applications",
-    "Tools that simplify real workflows"
+    "Tools for smarter workflows"
   ],
-
-  learning: [
-    "LLM Engineering",
-    "RAG & AI Agents",
-    "System Design & MLOps"
-  ],
+  learning: ["LLMs", "RAG", "Agents", "MLOps"],
 
   stack: {
-    languages: [
-      "Python", "JavaScript",
-      "TypeScript", "Java", "Rust"
-    ],
-    frontend: [
-      "HTML", "CSS", "Tailwind CSS"
-    ],
+    languages: ["Python", "Java", "JS", "TS", "Rust"],
+    frontend: ["HTML", "CSS", "Tailwind"],
     desktop: ["Tauri"],
     databases: ["MySQL", "SQL Server"],
-    tools: [
-      "Docker", "Git", "GitHub",
-      "Figma", "WordPress"
-    ]
+    tools: ["Docker", "Git", "GitHub"]
   }
 };
 ```
@@ -81,7 +58,7 @@ const alejandro = {
 <p align="right"><em>— John Johnson</em></p>
 
 </td>
-<td width="40%" valign="middle" align="center">
+<td width="40%" valign="top" align="center">
   <img
     src="./ai-hands.png"
     alt="Una mano humana y una robótica a punto de tocarse"
@@ -92,6 +69,7 @@ const alejandro = {
 </table>
 
 <br />
+````
 
 <!-- 03 · CONNECT WITH ME -->
 
