@@ -13,9 +13,7 @@
 <br />
 
 <!-- 02 · ABOUT ME -->
-El bloque de código quedó demasiado largo y deja mucho espacio vacío junto a la imagen. Sustituye **toda la sección “About Me”** por esta versión más compacta, con ambas columnas alineadas arriba:
 
-````markdown
 <h2 align="center">👨‍💻 About Me</h2>
 
 <p align="center">
@@ -69,7 +67,6 @@ const alejandro = {
 </table>
 
 <br />
-````
 
 <!-- 03 · CONNECT WITH ME -->
 
@@ -163,7 +160,7 @@ const alejandro = {
   </a>
 </div>
 
-<table width="100%" border="0" cellspacing="0" cellpadding="0">
+<table width="100%">
 <tr>
 <td width="50%" align="center" valign="top">
   <img
@@ -216,4 +213,4 @@ const alejandro = {
 
 <!-- banner.png: sube el banner generado a la raíz de alejomtll/alejomtll con este nombre exacto. -->
 <!-- ai-hands.png: sube la imagen de las manos a esa misma raíz con este nombre exacto. -->
-<!-- No necesitas coding.gif ni otras imágenes locales; guarda este código como README.md. -->
+<!-- Guarda este código como README.md; no necesitas coding.gif ni otras imágenes locales. -->
