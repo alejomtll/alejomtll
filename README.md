@@ -1,26 +1,18 @@
 <!--
-CONFIGURACIÓN
-1. Reemplaza TU-USUARIO-GITHUB por tu usuario real en todo el documento.
-2. Sustituye los datos personales y los enlaces de redes sociales.
-3. El stack y la frase utilizan los ejemplos de tu solicitud.
-4. Guarda este README.md en tu repositorio público TU-USUARIO-GITHUB.
-5. Los widgets dependen de servicios externos y requieren un usuario válido.
-
-LIMITACIONES DEL RENDERIZADO
-GitHub controla los bordes de las tablas y elimina los estilos CSS personalizados.
-La altura exacta del GIF depende de sus proporciones y del ancho de pantalla.
-Para esquinas redondeadas fiables, incorpóralas directamente en las imágenes.
+GitHub: alejomtll
+LinkedIn: https://www.linkedin.com/in/alejandro-martell-fl/
+X: https://x.com/alejomtll
+Email: alejo.aliens@gmail.com
+Discord: alejomtll
+Sustituye los datos personales y el stack de ejemplo por los tuyos.
+Guarda este README.md en tu repositorio público alejomtll/alejomtll.
 -->
 
 <!-- 01 · HERO -->
 
 <div align="center">
-  <a href="https://github.com/TU-USUARIO-GITHUB">
-    <img
-      src="./banner.png"
-      alt="Tu Nombre — Engineering Student | Full-Stack & Desktop Developer"
-      width="100%"
-    />
+  <a href="https://github.com/alejomtll">
+    <img src="./banner.png" alt="alejomtll — Developer" width="100%" />
   </a>
 </div>
 
@@ -37,7 +29,7 @@ Para esquinas redondeadas fiables, incorpóralas directamente en las imágenes.
 ```js
 const developer = {
   name: "Tu Nombre",
-  username: "TU-USUARIO-GITHUB",
+  username: "alejomtll",
   role: [
     "Engineering Student",
     "Full-Stack & Desktop Developer"
@@ -76,11 +68,7 @@ const developer = {
 
 </td>
 <td width="40%" valign="middle" align="center">
-  <img
-    src="./coding.gif"
-    alt="Setup de programación con estética nocturna"
-    width="100%"
-  />
+  <img src="./coding.gif" alt="Setup de programación con estética nocturna" width="100%" />
 </td>
 </tr>
 </table>
@@ -92,30 +80,19 @@ const developer = {
 <h2 align="center">🌐 Connect With Me</h2>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/TU-USUARIO-LINKEDIN/">
+  <a href="https://www.linkedin.com/in/alejandro-martell-fl/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge" alt="LinkedIn" />
   </a>
-  <a href="https://x.com/TU_USUARIO_X">
-    <img src="https://img.shields.io/badge/X_%2F_Twitter-161B22?style=for-the-badge&amp;logo=x&amp;logoColor=white" alt="X / Twitter" />
+  <a href="https://x.com/alejomtll">
+    <img src="https://img.shields.io/badge/X_%2F_Twitter-161B22?style=for-the-badge&amp;logo=x&amp;logoColor=white" alt="X de alejomtll" />
   </a>
-  <a href="https://www.instagram.com/TU_USUARIO_INSTAGRAM/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&amp;logo=instagram&amp;logoColor=white" alt="Instagram" />
+  <a href="mailto:alejo.aliens@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Enviar un email a alejo.aliens@gmail.com" />
   </a>
-  <a href="https://discord.com/users/TU_ID_DISCORD">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&amp;logo=discord&amp;logoColor=white" alt="Discord" />
-  </a>
-  <a href="mailto:tu.correo@example.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email" />
-  </a>
+  <img src="https://img.shields.io/badge/Discord-alejomtll-5865F2?style=for-the-badge&amp;logo=discord&amp;logoColor=white" alt="Discord: alejomtll" />
 </p>
 
-<!-- Opcional: descomenta este bloque y sustituye la URL.
-<p align="center">
-  <a href="https://tu-dominio.example">
-    <img src="https://img.shields.io/badge/Portfolio-7AA2F7?style=for-the-badge&amp;logo=googlechrome&amp;logoColor=white" alt="Portafolio" />
-  </a>
-</p>
--->
+<!-- El badge de Discord muestra tu username. Un enlace directo requiere tu ID numérico. -->
 
 <br />
 
@@ -162,10 +139,10 @@ const developer = {
 <h2 align="center">📊 GitHub Analytics</h2>
 
 <div align="center">
-  <a href="https://github.com/TU-USUARIO-GITHUB">
+  <a href="https://github.com/alejomtll">
     <img
-      src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TU-USUARIO-GITHUB&amp;theme=tokyonight"
-      alt="Resumen de actividad del perfil de GitHub"
+      src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alejomtll&amp;theme=tokyonight"
+      alt="Resumen de actividad de alejomtll"
       width="100%"
     />
   </a>
@@ -175,7 +152,7 @@ const developer = {
 <tr>
 <td width="50%" align="center" valign="top">
   <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=TU-USUARIO-GITHUB&amp;theme=tokyonight"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=alejomtll&amp;theme=tokyonight"
     alt="Lenguajes más utilizados por repositorio"
     width="100%"
   />
@@ -183,7 +160,7 @@ const developer = {
 <td width="50%" align="center" valign="top">
   <!-- utcOffset=0 representa UTC; ajústalo a tu zona horaria. -->
   <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=TU-USUARIO-GITHUB&amp;theme=tokyonight&amp;utcOffset=0"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=alejomtll&amp;theme=tokyonight&amp;utcOffset=0"
     alt="Distribución de commits según la hora del día, en UTC"
     width="100%"
   />
@@ -192,14 +169,14 @@ const developer = {
 <tr>
 <td width="50%" align="center" valign="top">
   <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=TU-USUARIO-GITHUB&amp;theme=tokyonight"
-    alt="Estadísticas generales de GitHub"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=alejomtll&amp;theme=tokyonight"
+    alt="Estadísticas generales de alejomtll"
     width="100%"
   />
 </td>
 <td width="50%" align="center" valign="top">
   <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=TU-USUARIO-GITHUB&amp;theme=tokyonight"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=alejomtll&amp;theme=tokyonight"
     alt="Lenguajes con mayor cantidad de commits"
     width="100%"
   />
@@ -216,8 +193,8 @@ const developer = {
 <div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img
-      src="https://github-profile-trophy.vercel.app/?username=TU-USUARIO-GITHUB&amp;theme=tokyonight&amp;row=1&amp;column=7&amp;no-bg=true&amp;no-frame=true&amp;margin-w=10"
-      alt="Trofeos de GitHub en una sola fila"
+      src="https://github-profile-trophy.vercel.app/?username=alejomtll&amp;theme=tokyonight&amp;row=1&amp;column=7&amp;no-bg=true&amp;no-frame=true&amp;margin-w=10"
+      alt="Trofeos de GitHub de alejomtll en una sola fila"
       width="100%"
     />
   </a>
